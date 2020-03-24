@@ -15,7 +15,7 @@
             <pie></pie>
         </div>
         <div id="api">
-            <p>Third Party API </p>
+            <b>Third Party API </b>
             <api></api>
         </div>
     </div>
